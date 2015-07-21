@@ -1,0 +1,25 @@
+{
+    "name": "chadicus/spl-exceptions",
+    "description": "Collection of standard exception classes",
+    "keywords": ["exception", "spl"],
+    "authors": [
+        {
+            "name": "Chad Gray",
+            "email": "chadwickgray@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "~5.4 || ~7.0"
+    },
+    "suggest": {                                                                                                                                 
+        "chadicus/util-exceptions": "Offers utilty classes for working with exceptions."
+    }, 
+    "require-dev": {
+        "squizlabs/php_codesniffer": "~2.0"
+    },
+    "autoload": {
+        "psr-4": { "Chadicus\\Spl\\Exceptions\\": "src" }
+    }
+}
