@@ -2,7 +2,7 @@
 namespace Chadicus\Spl\Exceptions;
 
 /**
- * Exception throw when trying to access a non-existant property for a class.
+ * Exception thrown when trying to access a nonexistent property for a class.
  */
 class UndefinedPropertyException extends \LogicException
 {
