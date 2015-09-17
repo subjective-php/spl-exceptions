@@ -1,4 +1,5 @@
 # Chadicus\Spl\Exceptions
+[![Build Status](https://travis-ci.org/chadicus/spl-exceptions-php.svg)](https://travis-ci.org/chadicus/spl-exceptions-php)
 [![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/chadicus/spl-exceptions-php.svg?style=flat)](https://scrutinizer-ci.com/g/chadicus/spl-exceptions-php/)
 
 [![Latest Stable Version](http://img.shields.io/packagist/v/chadicus/spl-exceptions.svg?style=flat)](https://packagist.org/packages/chadicus/spl-exceptions)
