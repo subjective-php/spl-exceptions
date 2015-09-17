@@ -1,8 +1,12 @@
 # Chadicus\Spl\Exceptions
 [![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/chadicus/spl-exceptions-php.svg?style=flat)](https://scrutinizer-ci.com/g/chadicus/spl-exceptions-php/)
+
 [![Latest Stable Version](http://img.shields.io/packagist/v/chadicus/spl-exceptions.svg?style=flat)](https://packagist.org/packages/chadicus/spl-exceptions)
 [![Total Downloads](http://img.shields.io/packagist/dt/chadicus/spl-exceptions.svg?style=flat)](https://packagist.org/packages/chadicus/spl-exceptions)
 [![License](http://img.shields.io/packagist/l/chadicus/spl-exceptions.svg?style=flat)](https://packagist.org/packages/chadicus/spl-exceptions)
+
+[![Dependency Status](https://www.versioneye.com/user/projects/55fac78c3ed894001e001048/badge.svg?style=flat)](https://www.versioneye.com/user/projects/55fac78c3ed894001e001048)
+
 [![Documentation](https://img.shields.io/badge/reference-phpdoc-blue.svg?style=flat)](http://chadicus.github.io/spl-exceptions-php)
 
 Collection of standard exception classes
