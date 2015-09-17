@@ -7,7 +7,7 @@
 
 [![Dependency Status](https://www.versioneye.com/user/projects/55fac78c3ed894001e001048/badge.svg?style=flat)](https://www.versioneye.com/user/projects/55fac78c3ed894001e001048)
 
-[![Documentation](https://img.shields.io/badge/reference-phpdoc-blue.svg?style=flat)](http://chadicus.github.io/spl-exceptions-php)
+[![Documentation](https://img.shields.io/badge/reference-phpdoc-blue.svg?style=flat)](http://pholio.herokuapp.com/chadicus/spl-exceptions)
 
 Collection of standard exception classes
 
