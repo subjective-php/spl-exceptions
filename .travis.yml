@@ -6,4 +6,4 @@ php:
   - 7
   - hhvm
 install: composer install
-script: ./vendor/bin/phpcs --standard=PSR2 src 
+script: ./vendor/bin/phpunit --coverage-clover clover.xml
