@@ -18,6 +18,7 @@
         "chadicus/util-exceptions": "Offers utilty classes for working with exceptions."
     },
     "require-dev": {
+        "phpunit/phpunit": "~4.0",
         "chadicus/coding-standard": "~1.0.1"
     },
     "autoload": {
