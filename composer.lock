@@ -4,28 +4,68 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c1a87c5b549c4a8d8236573e2bf589a8",
-    "content-hash": "5319dda19dd0ff42e56897bf641e9d75",
+    "hash": "7b54c7ba3834b418649e10231e9616a3",
+    "content-hash": "aa9ca7c2a00b12646e7be683440b9a59",
     "packages": [],
     "packages-dev": [
         {
-            "name": "squizlabs/php_codesniffer",
-            "version": "2.3.4",
+            "name": "chadicus/coding-standard",
+            "version": "v1.0.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "11a2545c44a5915f883e2e5ec12e14ed345e3ab2"
+                "url": "https://github.com/chadicus/coding-standard.git",
+                "reference": "971fac1625463a72df0034fbfdd263561f2ccb4f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/11a2545c44a5915f883e2e5ec12e14ed345e3ab2",
-                "reference": "11a2545c44a5915f883e2e5ec12e14ed345e3ab2",
+                "url": "https://api.github.com/repos/chadicus/coding-standard/zipball/971fac1625463a72df0034fbfdd263561f2ccb4f",
+                "reference": "971fac1625463a72df0034fbfdd263561f2ccb4f",
+                "shasum": ""
+            },
+            "require": {
+                "squizlabs/php_codesniffer": "~2.0"
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Chad Gray",
+                    "email": "chadwickgray@gmail.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Chadicus Coding standard",
+            "keywords": [
+                "coding",
+                "phpcs",
+                "standard"
+            ],
+            "time": "2015-12-01 19:20:36"
+        },
+        {
+            "name": "squizlabs/php_codesniffer",
+            "version": "2.5.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
+                "reference": "e4fb41d5d0387d556e2c25534d630b3cce90ea67"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/e4fb41d5d0387d556e2c25534d630b3cce90ea67",
+                "reference": "e4fb41d5d0387d556e2c25534d630b3cce90ea67",
                 "shasum": ""
             },
             "require": {
                 "ext-tokenizer": "*",
                 "ext-xmlwriter": "*",
                 "php": ">=5.1.2"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "~4.0"
             },
             "bin": [
                 "scripts/phpcs",
@@ -80,7 +120,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2015-09-09 00:18:50"
+            "time": "2015-12-11 00:12:46"
         }
     ],
     "aliases": [],
