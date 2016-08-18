@@ -12,13 +12,13 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "~5.4 || ~7.0"
+        "php": "~5.6 || ~7.0"
     },
     "suggest": {
         "chadicus/util-exceptions": "Offers utilty classes for working with exceptions."
     },
     "require-dev": {
-        "chadicus/coding-standard": "~1.0.1"
+        "chadicus/coding-standard": "^1.1"
     },
     "autoload": {
         "psr-4": { "Chadicus\\Spl\\Exceptions\\": "src" }
