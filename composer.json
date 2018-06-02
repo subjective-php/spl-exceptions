@@ -2,14 +2,6 @@
     "name": "chadicus/spl-exceptions",
     "description": "Collection of standard exception classes",
     "keywords": ["exception", "spl"],
-    "authors": [
-        {
-            "name": "Chad Gray",
-            "homepage": "http://chadicus.org",
-            "email": "chadwickgray@gmail.com",
-            "role": "Developer"
-        }
-    ],
     "license": "MIT",
     "require": {
         "php": "^7.0"
