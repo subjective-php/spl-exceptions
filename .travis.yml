@@ -2,4 +2,4 @@ language: php
 php:
   - 7
 install: composer install
-script: ./vendor/bin/phpcs --standard=./vendor/chadicus/coding-standard/Chadicus src
+script: ./vendor/bin/phpcs
