@@ -1,10 +1,16 @@
 # SubjectivePHP\Spl\Exceptions
-[![Build Status](https://travis-ci.org/subjective-php/spl-exceptions.svg)](https://travis-ci.org/subjective-php/spl-exceptions)
-[![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/subjective-php/spl-exceptions.svg?style=flat)](https://scrutinizer-ci.com/g/subjective-php/spl-exceptions/)
 
-[![Latest Stable Version](http://img.shields.io/packagist/v/subjective-php/spl-exceptions.svg?style=flat)](https://packagist.org/packages/subjective-php/spl-exceptions)
-[![Total Downloads](http://img.shields.io/packagist/dt/subjective-php/spl-exceptions.svg?style=flat)](https://packagist.org/packages/subjective-php/spl-exceptions)
-[![License](http://img.shields.io/packagist/l/subjective-php/spl-exceptions.svg?style=flat)](https://packagist.org/packages/subjective-php/spl-exceptions)
+[![Build Status](https://travis-ci.org/subjective-php/spl-exceptions.svg?branch=master)](https://travis-ci.org/subjective-php/spl-exceptions)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/subjective-php/spl-exceptions/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/subjective-php/spl-exceptions/?branch=master)
+[![Code Coverage](https://coveralls.io/repos/github/subjective-php/spl-exceptions/badge.svg?branch=master)](https://coveralls.io/github/subjective-php/spl-exceptions?branch=master)
+
+[![Latest Stable Version](https://poser.pugx.org/subjective-php/spl-exceptions/v/stable)](https://packagist.org/packages/subjective-php/spl-exceptions)
+[![Latest Unstable Version](https://poser.pugx.org/subjective-php/spl-exceptions/v/unstable)](https://packagist.org/packages/subjective-php/spl-exceptions)
+[![License](https://poser.pugx.org/subjective-php/spl-exceptions/license)](https://packagist.org/packages/subjective-php/spl-exceptions)
+
+[![Total Downloads](https://poser.pugx.org/subjective-php/spl-exceptions/downloads)](https://packagist.org/packages/subjective-php/spl-exceptions)
+[![Daily Downloads](https://poser.pugx.org/subjective-php/spl-exceptions/d/daily)](https://packagist.org/packages/subjective-php/spl-exceptions)
+[![Monthly Downloads](https://poser.pugx.org/subjective-php/spl-exceptions/d/monthly)](https://packagist.org/packages/subjective-php/spl-exceptions)
 
 [![Documentation](https://img.shields.io/badge/reference-phpdoc-blue.svg?style=flat)](http://www.pholiophp.org/subjective-php/spl-exceptions)
 
