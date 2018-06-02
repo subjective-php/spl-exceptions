@@ -1,6 +1,6 @@
 # SubjectivePHP\Spl\Exceptions
-[![Build Status](https://travis-ci.org/subjective-php/spl-exceptions-php.svg)](https://travis-ci.org/subjective-php/spl-exceptions-php)
-[![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/subjective-php/spl-exceptions-php.svg?style=flat)](https://scrutinizer-ci.com/g/subjective-php/spl-exceptions-php/)
+[![Build Status](https://travis-ci.org/subjective-php/spl-exceptions.svg)](https://travis-ci.org/subjective-php/spl-exceptions)
+[![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/subjective-php/spl-exceptions.svg?style=flat)](https://scrutinizer-ci.com/g/subjective-php/spl-exceptions/)
 
 [![Latest Stable Version](http://img.shields.io/packagist/v/subjective-php/spl-exceptions.svg?style=flat)](https://packagist.org/packages/subjective-php/spl-exceptions)
 [![Total Downloads](http://img.shields.io/packagist/dt/subjective-php/spl-exceptions.svg?style=flat)](https://packagist.org/packages/subjective-php/spl-exceptions)
@@ -24,8 +24,8 @@ composer install subjective-php/spl-exceptions
 ## Contact
 Developers may be contacted at:
 
- * [Pull Requests](https://github.com/subjective-php/spl-exceptions-php/pulls)
- * [Issues](https://github.com/subjective-php/spl-exceptions-php/issues)
+ * [Pull Requests](https://github.com/subjective-php/spl-exceptions/pulls)
+ * [Issues](https://github.com/subjective-php/spl-exceptions/issues)
 
 ## Project Build
 With a checkout of the code get [Composer](http://getcomposer.org) in your PATH and run:
