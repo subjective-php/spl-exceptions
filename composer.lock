@@ -4,26 +4,25 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "24ecc78db77dbcf357b3da60e0f06fa4",
-    "content-hash": "20dbc679e93cb415112e41bd8b3b36cf",
+    "content-hash": "6060df2726b95d5cd3b3cbb055cebfde",
     "packages": [],
     "packages-dev": [
         {
             "name": "chadicus/coding-standard",
-            "version": "v1.1.2",
+            "version": "v1.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/chadicus/coding-standard.git",
-                "reference": "3264851a30a7305995998660ee239d1a3d1c311f"
+                "reference": "edf6d214804d2f2c170ec0c876860ce09b37e807"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/chadicus/coding-standard/zipball/3264851a30a7305995998660ee239d1a3d1c311f",
-                "reference": "3264851a30a7305995998660ee239d1a3d1c311f",
+                "url": "https://api.github.com/repos/chadicus/coding-standard/zipball/edf6d214804d2f2c170ec0c876860ce09b37e807",
+                "reference": "edf6d214804d2f2c170ec0c876860ce09b37e807",
                 "shasum": ""
             },
             "require": {
-                "squizlabs/php_codesniffer": "~2.0"
+                "squizlabs/php_codesniffer": "^2.0"
             },
             "type": "library",
             "notification-url": "https://packagist.org/downloads/",
@@ -43,20 +42,20 @@
                 "phpcs",
                 "standard"
             ],
-            "time": "2016-08-04 18:59:29"
+            "time": "2017-11-15T16:59:35+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "2.6.2",
+            "version": "2.9.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "4edb770cb853def6e60c93abb088ad5ac2010c83"
+                "reference": "dcbed1074f8244661eecddfc2a675430d8d33f62"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/4edb770cb853def6e60c93abb088ad5ac2010c83",
-                "reference": "4edb770cb853def6e60c93abb088ad5ac2010c83",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/dcbed1074f8244661eecddfc2a675430d8d33f62",
+                "reference": "dcbed1074f8244661eecddfc2a675430d8d33f62",
                 "shasum": ""
             },
             "require": {
@@ -121,7 +120,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2016-07-13 23:29:13"
+            "time": "2017-05-22T02:43:20+00:00"
         }
     ],
     "aliases": [],
@@ -130,7 +129,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "~5.6 || ~7.0"
+        "php": "^7.0"
     },
     "platform-dev": []
 }
