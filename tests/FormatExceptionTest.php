@@ -1,13 +1,13 @@
 <?php
 
-namespace ChadicusTest\Spl\Exceptions;
+namespace SubjectivePHPTest\Spl\Exceptions;
 
-use Chadicus\Spl\Exceptions\FormatException;
+use SubjectivePHP\Spl\Exceptions\FormatException;
 use InvalidArgumentException;
 use PHPUnit\Framework\TestCase;
 
 /**
- * @coversDefaultClass \ChadicusTest\Spl\Exceptions\FormatException
+ * @coversDefaultClass \SubjectivePHPTest\Spl\Exceptions\FormatException
  */
 final class FormatExceptionTest extends TestCase
 {

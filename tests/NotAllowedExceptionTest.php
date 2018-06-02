@@ -1,13 +1,13 @@
 <?php
 
-namespace ChadicusTest\Spl\Exceptions;
+namespace SubjectivePHPTest\Spl\Exceptions;
 
-use Chadicus\Spl\Exceptions\NotAllowedException;
+use SubjectivePHP\Spl\Exceptions\NotAllowedException;
 use PHPUnit\Framework\TestCase;
 use RuntimeException;
 
 /**
- * @coversDefaultClass \ChadicusTest\Spl\Exceptions\NotAllowedException
+ * @coversDefaultClass \SubjectivePHPTest\Spl\Exceptions\NotAllowedException
  */
 final class NotAllowedExceptionTest extends TestCase
 {

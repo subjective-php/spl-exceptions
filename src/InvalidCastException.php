@@ -1,5 +1,5 @@
 <?php
-namespace Chadicus\Spl\Exceptions;
+namespace SubjectivePHP\Spl\Exceptions;
 
 /**
  * Exception thrown for invalid casting or explicit conversion.

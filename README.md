@@ -1,12 +1,12 @@
-# Chadicus\Spl\Exceptions
-[![Build Status](https://travis-ci.org/chadicus/spl-exceptions-php.svg)](https://travis-ci.org/chadicus/spl-exceptions-php)
-[![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/chadicus/spl-exceptions-php.svg?style=flat)](https://scrutinizer-ci.com/g/chadicus/spl-exceptions-php/)
+# SubjectivePHP\Spl\Exceptions
+[![Build Status](https://travis-ci.org/subjective-php/spl-exceptions-php.svg)](https://travis-ci.org/subjective-php/spl-exceptions-php)
+[![Scrutinizer Code Quality](http://img.shields.io/scrutinizer/g/subjective-php/spl-exceptions-php.svg?style=flat)](https://scrutinizer-ci.com/g/subjective-php/spl-exceptions-php/)
 
-[![Latest Stable Version](http://img.shields.io/packagist/v/chadicus/spl-exceptions.svg?style=flat)](https://packagist.org/packages/chadicus/spl-exceptions)
-[![Total Downloads](http://img.shields.io/packagist/dt/chadicus/spl-exceptions.svg?style=flat)](https://packagist.org/packages/chadicus/spl-exceptions)
-[![License](http://img.shields.io/packagist/l/chadicus/spl-exceptions.svg?style=flat)](https://packagist.org/packages/chadicus/spl-exceptions)
+[![Latest Stable Version](http://img.shields.io/packagist/v/subjective-php/spl-exceptions.svg?style=flat)](https://packagist.org/packages/subjective-php/spl-exceptions)
+[![Total Downloads](http://img.shields.io/packagist/dt/subjective-php/spl-exceptions.svg?style=flat)](https://packagist.org/packages/subjective-php/spl-exceptions)
+[![License](http://img.shields.io/packagist/l/subjective-php/spl-exceptions.svg?style=flat)](https://packagist.org/packages/subjective-php/spl-exceptions)
 
-[![Documentation](https://img.shields.io/badge/reference-phpdoc-blue.svg?style=flat)](http://www.pholiophp.org/chadicus/spl-exceptions)
+[![Documentation](https://img.shields.io/badge/reference-phpdoc-blue.svg?style=flat)](http://www.pholiophp.org/subjective-php/spl-exceptions)
 
 Collection of standard exception classes
 
@@ -14,26 +14,24 @@ Collection of standard exception classes
 
 Chadicus\Spl\Exceptions requires PHP 7.0 (or later).
 
-##Composer
-To add the library as a local, per-project dependency use [Composer](http://getcomposer.org)! Simply add a dependency on`'chadicus/spl-exceptions'`to your project's `composer.json` file such as:
+## Composer
+To add the library as a local, per-project dependency use [Composer](http://getcomposer.org)! Simply add a dependency on`'subjective-php/spl-exceptions'`to your project's `composer.json` file such as:
 
-```json
-{
-    "require": {
-        "chadicus/spl-exceptions": "^2.0"
-    }
-}
+```sh
+composer install subjective-php/spl-exceptions
 ```
 
-##Contact
+## Contact
 Developers may be contacted at:
 
- * [Pull Requests](https://github.com/chadicus/spl-exceptions-php/pulls)
- * [Issues](https://github.com/chadicus/spl-exceptions-php/issues)
+ * [Pull Requests](https://github.com/subjective-php/spl-exceptions-php/pulls)
+ * [Issues](https://github.com/subjective-php/spl-exceptions-php/issues)
 
-##Project Build
+## Project Build
 With a checkout of the code get [Composer](http://getcomposer.org) in your PATH and run:
 
 ```sh
-./composer install
+composer install
+./vendor/bin/phpunit
+./vendor/bin/phpcs
 ```
