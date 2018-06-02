@@ -1,5 +1,5 @@
 <?php
-namespace Chadicus\Spl\Exceptions;
+namespace SubjectivePHP\Spl\Exceptions;
 
 /**
  * Exception thrown if an expected value was null.

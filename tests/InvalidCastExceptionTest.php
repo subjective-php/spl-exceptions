@@ -1,13 +1,13 @@
 <?php
 
-namespace ChadicusTest\Spl\Exceptions;
+namespace SubjectivePHPTest\Spl\Exceptions;
 
-use Chadicus\Spl\Exceptions\InvalidCastException;
+use SubjectivePHP\Spl\Exceptions\InvalidCastException;
 use PHPUnit\Framework\TestCase;
 use RuntimeException;
 
 /**
- * @coversDefaultClass \ChadicusTest\Spl\Exceptions\InvalidCastException
+ * @coversDefaultClass \SubjectivePHPTest\Spl\Exceptions\InvalidCastException
  */
 final class InvalidCastExceptionTest extends TestCase
 {

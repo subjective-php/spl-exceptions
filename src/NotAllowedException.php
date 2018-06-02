@@ -1,5 +1,5 @@
 <?php
-namespace Chadicus\Spl\Exceptions;
+namespace SubjectivePHP\Spl\Exceptions;
 
 /**
  * Exception thrown if the caller does not have the appropriate permissions to perform the action.

@@ -1,13 +1,13 @@
 <?php
 
-namespace ChadicusTest\Spl\Exceptions;
+namespace SubjectivePHPTest\Spl\Exceptions;
 
-use Chadicus\Spl\Exceptions\TimeoutException;
+use SubjectivePHP\Spl\Exceptions\TimeoutException;
 use PHPUnit\Framework\TestCase;
 use RuntimeException;
 
 /**
- * @coversDefaultClass \ChadicusTest\Spl\Exceptions\TimeoutException
+ * @coversDefaultClass \SubjectivePHPTest\Spl\Exceptions\TimeoutException
  */
 final class TimeoutExceptionTest extends TestCase
 {

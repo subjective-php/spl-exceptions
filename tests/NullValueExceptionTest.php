@@ -1,13 +1,13 @@
 <?php
 
-namespace ChadicusTest\Spl\Exceptions;
+namespace SubjectivePHPTest\Spl\Exceptions;
 
-use Chadicus\Spl\Exceptions\NullValueException;
+use SubjectivePHP\Spl\Exceptions\NullValueException;
 use PHPUnit\Framework\TestCase;
 use UnexpectedValueException;
 
 /**
- * @coversDefaultClass \ChadicusTest\Spl\Exceptions\NullValueException
+ * @coversDefaultClass \SubjectivePHPTest\Spl\Exceptions\NullValueException
  */
 final class NullValueExceptionTest extends TestCase
 {

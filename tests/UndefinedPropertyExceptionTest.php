@@ -1,13 +1,13 @@
 <?php
 
-namespace ChadicusTest\Spl\Exceptions;
+namespace SubjectivePHPTest\Spl\Exceptions;
 
-use Chadicus\Spl\Exceptions\UndefinedPropertyException;
+use SubjectivePHP\Spl\Exceptions\UndefinedPropertyException;
 use LogicException;
 use PHPUnit\Framework\TestCase;
 
 /**
- * @coversDefaultClass \ChadicusTest\Spl\Exceptions\UndefinedPropertyException
+ * @coversDefaultClass \SubjectivePHPTest\Spl\Exceptions\UndefinedPropertyException
  */
 final class UndefinedPropertyExceptionTest extends TestCase
 {

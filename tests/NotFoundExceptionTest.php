@@ -1,13 +1,13 @@
 <?php
 
-namespace ChadicusTest\Spl\Exceptions;
+namespace SubjectivePHPTest\Spl\Exceptions;
 
-use Chadicus\Spl\Exceptions\NotFoundException;
+use SubjectivePHP\Spl\Exceptions\NotFoundException;
 use PHPUnit\Framework\TestCase;
 use RuntimeException;
 
 /**
- * @coversDefaultClass \ChadicusTest\Spl\Exceptions\NotFoundException
+ * @coversDefaultClass \SubjectivePHPTest\Spl\Exceptions\NotFoundException
  */
 final class NotFoundExceptionTest extends TestCase
 {

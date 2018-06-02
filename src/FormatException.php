@@ -1,5 +1,5 @@
 <?php
-namespace Chadicus\Spl\Exceptions;
+namespace SubjectivePHP\Spl\Exceptions;
 
 /**
  * Exception thrown when the format of an argument is invalid, or when a format string is not well formed.

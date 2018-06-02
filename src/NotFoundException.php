@@ -1,5 +1,5 @@
 <?php
-namespace Chadicus\Spl\Exceptions;
+namespace SubjectivePHP\Spl\Exceptions;
 
 /**
  * Exception thrown if a resource such as a database record or file is not found.
