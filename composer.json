@@ -13,6 +13,7 @@
         "chadicus/util-exceptions": "Offers utilty classes for working with exceptions."
     },
     "require-dev": {
+        "php-coveralls/php-coveralls": "^2.1",
         "phpunit/phpunit": "^6.5",
         "squizlabs/php_codesniffer": "^3.2"
     },
