@@ -12,7 +12,7 @@ Collection of standard exception classes
 
 ## Requirements
 
-Chadicus\Spl\Exceptions requires PHP 5.6 (or later).
+Chadicus\Spl\Exceptions requires PHP 7.0 (or later).
 
 ##Composer
 To add the library as a local, per-project dependency use [Composer](http://getcomposer.org)! Simply add a dependency on`'chadicus/spl-exceptions'`to your project's `composer.json` file such as:
