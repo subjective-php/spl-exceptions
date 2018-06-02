@@ -13,7 +13,7 @@
         "chadicus/util-exceptions": "Offers utilty classes for working with exceptions."
     },
     "require-dev": {
-        "chadicus/coding-standard": "^1.1"
+        "squizlabs/php_codesniffer": "^3.2"
     },
     "autoload": {
         "psr-4": { "Chadicus\\Spl\\Exceptions\\": "src" }
