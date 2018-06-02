@@ -3,3 +3,4 @@ php:
   - 7
 install: composer install
 script: ./vendor/bin/phpunit
+after_success: ./vendor/bin/php-coveralls -v
