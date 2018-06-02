@@ -2,4 +2,4 @@ language: php
 php:
   - 7
 install: composer install
-script: ./vendor/bin/phpcs
+script: ./vendor/bin/phpunit
