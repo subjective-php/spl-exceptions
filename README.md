@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/subjective-php/spl-exceptions.svg?branch=master)](https://travis-ci.org/subjective-php/spl-exceptions)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/subjective-php/spl-exceptions/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/subjective-php/spl-exceptions/?branch=master)
-[![Code Coverage](https://coveralls.io/repos/github/subjective-php/spl-exceptions/badge.svg?branch=master)](https://coveralls.io/github/subjective-php/spl-exceptions?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/subjective-php/spl-exceptions/badge.svg)](https://coveralls.io/github/subjective-php/spl-exceptions)
 
 [![Latest Stable Version](https://poser.pugx.org/subjective-php/spl-exceptions/v/stable)](https://packagist.org/packages/subjective-php/spl-exceptions)
 [![Latest Unstable Version](https://poser.pugx.org/subjective-php/spl-exceptions/v/unstable)](https://packagist.org/packages/subjective-php/spl-exceptions)
