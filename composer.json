@@ -7,7 +7,7 @@
         "sort-packages": true
     },
     "require": {
-        "php": "^7.0"
+        "php": ">=7.0"
     },
     "suggest": {
         "subjective-php/util-exceptions": "Offers utilty classes for working with exceptions."
